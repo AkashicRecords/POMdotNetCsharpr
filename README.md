@@ -9,6 +9,17 @@ This is a sample Page Object Model (POM) framework for web application test auto
 - **Tests**: Contains test classes that use the Page classes to perform tests.
 - **Utilities**: Contains utility classes for common functionalities like logging, reading configurations, etc.
 
+#### Libraries Required
+- NUnit (Unit testing framework for C#)
+- Selenium WebDriver (Library for web browser automation)
+- WebDriverManager (Library to manage web drivers)
+
+#### Folder Structure
+- **Pages**: Contains classes representing web pages with their locators and methods.
+- **Tests**: Contains test classes that use the Page classes to perform tests.
+- **Utilities**: Contains utility classes for common functionalities like logging, reading configurations, etc.
+
+Please adjust the namespaces, project structure, and any other details to fit your specific project requirements.
 ## Setup
 1. Clone the repository.
 2. Ensure you have Visual Studio installed.
